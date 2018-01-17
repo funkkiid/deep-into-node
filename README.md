@@ -1,5 +1,7 @@
 # 《深入理解Node.js：核心思想与源码分析》
 
+> 本开源书 forked from [深入理解Node.js：核心思想与源码分析](https://github.com/yjhjstz/deep-into-node)，作者为 [yjhjstz](https://github.com/yjhjstz)，欢迎大家 star 原作者的 [repo](https://github.com/yjhjstz/deep-into-node)，以便获得最新更新，谢谢！
+
 Node.js 的源码分析，基于node v6.0.0。 
 
 源码分析包括（libuv, v8）, 需要有一定的 C、C++基础。 Node.js 的源码到处闪烁着开发者的智慧和追求极致的精神。
